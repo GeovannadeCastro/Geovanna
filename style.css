@@ -1,11 +1,11 @@
-.cabeçalho {
+.cabeçalho{
     background-color:#f50484 ;
      color: #93989d;
      display: flex;
      justify-content: space-around;
      align-items: padding 24px 0;
 }
-.cabeçalho-imagem {
+.cabeçalho-imagem{
   width: 20%
 }
 .cabeçalho-lista-item{
