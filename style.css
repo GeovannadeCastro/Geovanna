@@ -10,6 +10,6 @@
 }
 .cabeçalho-lista-item{
   display:inline-block;
+  font-size: 24px;
   margin:0 16px
-  font-size: 24px
 }
